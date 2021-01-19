@@ -10,7 +10,6 @@ const LikeSection = props => {
   // 🔥 Make sure the parent of LikeSection is passing the right props!
   const { likePost, numberOfLikes } = props;
   //console.log("LikeSection.js, likePost: \n", likePost, "\n numberOfLikes: ", numberOfLikes);
-
   return (
     <div>
       <div
